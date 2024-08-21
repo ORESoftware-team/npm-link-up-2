@@ -373,7 +373,7 @@ $ nlu run   # run this from within project x
 
 ### Complete real-world usage example:
 See: https://github.com/sumanjs/suman-mono
-
+More examples coming soon.
 <br>
 
 
