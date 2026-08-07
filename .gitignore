@@ -17,4 +17,7 @@ assert
 *.tgz
 !dist/README.md
 
-
+tmp
+temp
+tmp/worktrees
+temp/worktrees
